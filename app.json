@@ -1,12 +1,12 @@
 {
   "expo": {
-    "name": "newsapp2",
-    "slug": "newsapp2",
+    "name": "Fast app",
+    "slug": "fast-app",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/newspaper.png",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/newspaper.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -27,6 +27,10 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "AGAIN A NEWS APP WITH SOME SPEED",
+    "facebookScheme":"fb161586785429043",
+    "facebookAppId": "161586785429043",
+    "facebookDisplayName": "mynewsapp"
   }
 }
